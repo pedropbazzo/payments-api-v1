@@ -4,6 +4,13 @@
 <img src="http://validator.swagger.io/validator?url=https://raw.githubusercontent.com/islomar/payments-api/master/openapi/payments-api.yaml">
 
 # Payments REST API
+
+<img src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/CD%20Infrastructure%20Diagram-1.jpg" width="500"/>
+<img src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Components%20Diagram-1.jpg" width="500"/>
+<img src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Create%20Payment%20Sequence%20Diagram-1.jpg" width="500"/>
+<img src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Use%20Case%20Diagrams-1.jpg" width="500"/>
+
+
 This repo is integrated with TravisCI, with a CD pipeline which executes the isolated and end to end tests, deploying in the end to Heroku and publishing several metrics to SonarCloud and Coveralls:
 
 * TravisCI: https://travis-ci.org/
