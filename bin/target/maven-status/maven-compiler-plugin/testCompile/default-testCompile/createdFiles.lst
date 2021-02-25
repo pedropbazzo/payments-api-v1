@@ -1,0 +1,16 @@
+com/islomar/payments/isolated/core/actions/FetchAllPaymentsShould.class
+com/islomar/payments/isolated/core/actions/CreateOnePaymentShould.class
+com/islomar/payments/end2end/SpringBootBaseFeatureTest.class
+com/islomar/payments/isolated/core/actions/FetchOnePaymentShould.class
+com/islomar/payments/isolated/core/actions/DeleteOnePaymentShould.class
+com/islomar/payments/isolated/core/model/PaymentServiceShould.class
+com/islomar/payments/isolated/core/model/PaymentValidatorShould.class
+com/islomar/payments/integration/UpdateOnePaymentIT.class
+com/islomar/payments/shared/ObjectMother.class
+com/islomar/payments/shared/PaymentConverter.class
+com/islomar/payments/integration/CreateOnePaymentIT.class
+com/islomar/payments/isolated/web/PaymentsRestApiControllerShould.class
+com/islomar/payments/end2end/PaymentsApiFeatureTest.class
+com/islomar/payments/isolated/core/infrastructure/PaymentRepositoryShould.class
+com/islomar/payments/isolated/core/actions/UpdateOnePaymentShould.class
+com/islomar/payments/end2end/steps/PaymentsApiStepDefinitions.class

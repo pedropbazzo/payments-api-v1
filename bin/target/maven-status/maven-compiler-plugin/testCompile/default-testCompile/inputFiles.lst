@@ -1,0 +1,16 @@
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/model/PaymentValidatorShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/actions/FetchAllPaymentsShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/web/PaymentsRestApiControllerShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/actions/UpdateOnePaymentShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/end2end/SpringBootBaseFeatureTest.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/infrastructure/PaymentRepositoryShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/shared/ObjectMother.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/actions/CreateOnePaymentShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/integration/CreateOnePaymentIT.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/actions/FetchOnePaymentShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/end2end/steps/PaymentsApiStepDefinitions.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/integration/UpdateOnePaymentIT.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/end2end/PaymentsApiFeatureTest.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/shared/PaymentConverter.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/model/PaymentServiceShould.java
+/media/pedropbazzo/940B-59A4/eclipse-workspace/payments-api-master/src/test/java/com/islomar/payments/isolated/core/actions/DeleteOnePaymentShould.java
