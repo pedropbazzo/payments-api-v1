@@ -7,7 +7,11 @@
   <sonar.projectKey>pedropbazzo_payments-api-v1</sonar.projectKey>
   <sonar.organization>pedropbazzo</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+             <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+             <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
+             <cucumber.java.version>3.0.2</cucumber.java.version>
+             <pitest.version>1.4.0</pitest.version>
+         </properties>
 
 
     <prerequisites>
@@ -18,13 +22,6 @@
     <artifactId>payments-api</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.boot.version>2.1.6.RELEASE</spring.boot.version>
-        <cucumber.java.version>3.0.2</cucumber.java.version>
-        <pitest.version>1.4.0</pitest.version>
-    </properties>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
