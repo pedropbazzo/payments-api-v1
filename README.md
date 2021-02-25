@@ -7,7 +7,7 @@
 This repo is integrated with TravisCI, with a CD pipeline which executes the isolated and end to end tests, deploying in the end to Heroku and publishing several metrics to SonarCloud and Coveralls:
 
 * TravisCI: https://travis-ci.org/islomar/payments-api  
-* Heroku: https://payments-api-islomar.herokuapp.com
+* Heroku: https://api-pay-v1.herokuapp.com/
 * SonarCloud: https://sonarcloud.io/dashboard/index/com.islomar.payments:payments-api
 * Coveralls: https://coveralls.io/github/islomar/payments-api  (the coverage is only shown for the isolated tests)
 
