@@ -3,26 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <developers>
-        <developer>
-            <id>islomar</id>
-            <name>Isidro José López Martinez</name>
-            <email>islomar@gmail.com</email>
-            <url>https://www.linkedin.com/in/islomar/</url>
-            <timezone>CET</timezone>
-            <properties>
-                <picUrl>https://s.gravatar.com/avatar/081af0d2dbd890ce8c02b3643b3a7cfa</picUrl>
-            </properties>
-        </developer>
-    </developers>
-
          <properties>
   <sonar.projectKey>pedropbazzo_payments-api-v1</sonar.projectKey>
   <sonar.organization>pedropbazzo</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
-         
-         
+
+
     <prerequisites>
         <maven>3.5</maven>
     </prerequisites>
