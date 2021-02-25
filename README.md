@@ -18,7 +18,7 @@ This is RESTful Payments API, where it is possible to:
 * List a collection of payment resources
 * Persist resource state (currently only in memory)	
 
-More info about closed and open issues: https://github.com/islomar/payments-api/projects/1
+More info about closed and open issues: https://github.com/pedropbazzo/payments-api-v1
 
 
 ## Prerequisites tu run anything locally
@@ -36,7 +36,7 @@ More info about closed and open issues: https://github.com/islomar/payments-api/
 
 
 ## Testing
-You can see the resulting tests executed in TravisCI: https://travis-ci.org/islomar/payments-api
+You can see the resulting tests executed in TravisCI: https://travis-ci.org/
 
 ### How to run the automated tests locally
 * **Isolated tests**: run `mvn clean test`
@@ -54,21 +54,12 @@ You can see the resulting tests executed in TravisCI: https://travis-ci.org/islo
 
 
 ## Production environment
-* You can access the app here: https://payments-api-islomar.herokuapp.com/
-* E.g. https://payments-api-islomar.herokuapp.com/v1/payments
-
+* You can access the app here: https://api-pay-v1.herokuapp.com
+* E.g. https://api-pay-v1.herokuapp.com/v1/payments
 
 ## REST API documentation
-* Design diagrams created with Draw.io: https://drive.google.com/drive/folders/1LR-dpCOiYyQpro2T_5weGMEZNjJ9N0Ee?usp=sharing
 * https://documenter.getpostman.com/view/2082328/RWEauh9x#4a1f4612-7298-2a7c-b0a2-f5d57b92398c
 * Next: use Swagger or something similar.
-
-
-## Logging, Alerts and Monitoring
-* **Papertrail** addon of Heroku to read, search and monitor logs (private unfortunately).
-    * Currently, an alert is configured to send to islomar@gmail.com an email in case an ERROR happens.
-* **Postman monitor** (private): https://is.gd/2L0TMw
-    * Not reliable, the requests used should be changed
 
 ### Basic Monitoring Services
 * Based in Micrometer (already included in Spring Boot).
@@ -76,9 +67,9 @@ You can see the resulting tests executed in TravisCI: https://travis-ci.org/islo
     * Health:   http://localhost:9000/monitor/health
     * Info:     http://localhost:9000/monitor/info
 * Some examples in Production:
-    * All the published endpoints: http://payments-api-islomar.herokuapp.com/monitor
-    * Health:   http://payments-api-islomar.herokuapp.com/monitor/health
-    * Info:     http://payments-api-islomar.herokuapp.com/monitor/info
+    * All the published endpoints: https://api-pay-v1.herokuapp.com/monitor
+    * Health:   https://api-pay-v1.herokuapp.com/health
+    * Info:     https://api-pay-v1.herokuapp.com/monitor/info
 * More info about the endpoints:
     * https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready-endpoints-exposing-endpoints
 
