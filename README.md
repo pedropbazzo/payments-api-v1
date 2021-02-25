@@ -68,8 +68,9 @@ You can see the resulting tests executed in TravisCI: https://travis-ci.org/
     * Info:     http://localhost:9000/monitor/info
 * Some examples in Production:
     * All the published endpoints: https://api-pay-v1.herokuapp.com/monitor
-    * Health:   https://api-pay-v1.herokuapp.com/health
+    * Health:   https://api-pay-v1.herokuapp.com/monitor/health
     * Info:     https://api-pay-v1.herokuapp.com/monitor/info
+ 
 * More info about the endpoints:
     * https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#production-ready-endpoints-exposing-endpoints
 
