@@ -9,8 +9,8 @@
     <img alt="SignIn" title="#logo" width="400px" src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/CD%20Infrastructure%20Diagram-1.jpg">
     <img alt="SignUp" title="#logo" width="400px" src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Components%20Diagram-1.jpg">
       <br><br>
-    <img alt="Home" title="#logo" width="400px" src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Create%20Payment%20Sequence%20Diagram-1.jpg">
-    <img alt="Search" title="#logo" width="600px" src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Use%20Case%20Diagrams-1.jpg">
+     <img alt="SignIn" title="#logo" width="400px" src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Create%20Payment%20Sequence%20Diagram-1.jpg">
+    <img alt="SignUp" title="#logo" width="400px" src="https://raw.githubusercontent.com/pedropbazzo/payments-api-v1/master/Use%20Case%20Diagrams-1.jpg">
 </h3>
 
 
